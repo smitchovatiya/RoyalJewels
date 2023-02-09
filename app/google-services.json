@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106556969723",
+    "project_id": "royaljewels-5ffce",
+    "storage_bucket": "royaljewels-5ffce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106556969723:android:c5c377792bc249e4cfd65e",
+        "android_client_info": {
+          "package_name": "com.example.royaljewels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106556969723-h4elr4jpg00g9g6k6rt4tha5rmqgjqtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCQkXhVvIo0GCEQq3GoEC3azScbZke5Aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106556969723-h4elr4jpg00g9g6k6rt4tha5rmqgjqtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
